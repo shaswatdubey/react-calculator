@@ -28,6 +28,7 @@ const App = () => {
   const buttonColor = "#f2a33c";
 
   return (
+    
     <div className="App">
       <div className="calc-wrapper">
         <Input text={text} result={result} />
